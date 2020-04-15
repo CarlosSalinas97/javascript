@@ -1,0 +1,14 @@
+html{
+    background: #16191a;
+    color: white;
+}
+
+#menu{
+    background: #042d49;
+}
+
+#fondo{
+    background: rgba(4, 45, 73, 0.8);
+    color: white;
+    font-weight: bold;
+}

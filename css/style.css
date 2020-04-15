@@ -32,9 +32,16 @@ body{
     padding: 27.5px;
 }
 
+#fondo{
+    border: none;
+    background: none;
+    padding: 5px;
+    font-family: "Helvetica";
+    font-size: 16px;
+}
+
 #menu{
     display: inline-block;
-    background: #066cb1;
     text-transform: uppercase;
     width: 100%;
     text-align: center;
